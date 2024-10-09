@@ -1,6 +1,6 @@
 package Figuras;
 
 public interface iMovible {
-    public void moverHorizontalmente(int distancia);
-    public void moverVerticalmente(int distancia);
+    public void moverHorizontalmente(double distancia);
+    public void moverVerticalmente(double distancia);
 }
